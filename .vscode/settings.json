@@ -1,0 +1,6 @@
+{
+  "editor.inlineSuggest.showToolbar": "onHover",
+  "liveServer.settings.port": 5501,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line-thin"
+}
